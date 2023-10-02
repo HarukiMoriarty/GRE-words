@@ -2,3 +2,5 @@
 9.13 Easy 13 Medium 19
 9.14 Easy 14 Medium 20 Hard 47
 9.16 Hard 48
+9.18 Hard 100 Hard 99
+10.2 Hard 98
