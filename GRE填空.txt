@@ -4,3 +4,5 @@
 9.16 Hard 48
 9.18 Hard 100 Hard 99
 10.2 Hard 98
+10.7 Medium 63 Medium 64 Medium 65
+10.8 Medium 66
