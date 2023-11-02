@@ -10,4 +10,6 @@
 10.24 Medium 72
 10.25 Medium 73
 10.28 Medium 74
-10.29 Medium 75 Medium 76 Medium 77 Medium 78 Medium 79
+10.29 Medium 75 Medium 76 
+10.30 Medium 77 Medium 78 
+11.1 Hard 79
