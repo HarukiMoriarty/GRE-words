@@ -1,41 +1,44 @@
-resentment                                          愤恨，怨恨                                      spite, hatred
-commandeer                                          霸占，征用
-appropriation                                       侵吞，挪用
-obfuscation                                         困惑，挪用
-caviling                                            吹毛求疵，挑剔
-vacillation                                         踌躇，不果断
-cronyism                                            任人唯亲，任用亲信
-tenuous                                             纤细的，贫乏的                                  poor, rare, thin, subtle
-irrefutable                                         无可辩驳的
-pervasive                                           弥漫的，遍布的
-misconstrued                                        误解，曲解
-corporate                                           共同的，全体的
-decry                                               指责，责备
-presume                                             推测，推定
-investigate                                         侦察，调查
-enamored                                            迷恋
-judicious                                           头脑清醒的，明智的
-unnerved                                            气馁的，烦恼不安的
-antagonism                                          敌对，敌意
-entanglement                                        纠缠，牵连
-superfulous                                         多余的，过剩的，奢侈的
-mandate                                             委托，批准
-compromise                                          妥协，让步
-circumvent                                          规避，回避
-anachronism                                         时代错误的，不合潮流的
-abomination                                         厌恶，憎恨
-retrograde                                          倒退的，退化的
-counterproductive                                   事与愿违的
-belaboring                                          过分强调，反复讲述                              overemphasize
-shunning                                            回避                                            eschewing
-mocking                                             嘲弄
-formidable                                          可怕的，令人生畏的                              daunting
-neutrality                                          中立
-impartiality                                        公平的，不偏不倚的
-commitment                                          忠诚的
-buoyancy                                            轻快的，轻松的
-timidity                                            胆怯，胆小
-apprehension                                        忧虑，恐惧
+Section 100 
+resentment                1                          愤恨，怨恨                                      spite, hatred
+commandeer                                           霸占，征用
+appropriation                                        侵吞，挪用
+obfuscation                                          困惑，挪用
+caviling                  1                          吹毛求疵，挑剔
+vacillation                                          踌躇，不果断
+cronyism                  1                          任人唯亲，任用亲信
+tenuous                   1                          纤细的，贫乏的                                  poor, rare, thin, subtle
+irrefutable                                          无可辩驳的
+pervasive                                            弥漫的，遍布的
+misconstrued                                         误解，曲解
+corporate                                            共同的，全体的
+decry                                                指责，责备
+presume                                              推测，推定
+investigate                                          侦察，调查
+enamored                                             迷恋
+judicious                                            头脑清醒的，明智的
+unnerved                                             气馁的，烦恼不安的
+antagonism                                           敌对，敌意
+entanglement                                         纠缠，牵连
+superfulous                                          多余的，过剩的，奢侈的
+mandate                   1                          委托，批准
+compromise                                           妥协，让步
+circumvent                                           规避，回避
+anachronism                                          时代错误的，不合潮流的
+abomination               1                          厌恶，憎恨
+retrograde                                           倒退的，退化的
+counterproductive                                    事与愿违的
+belaboring                                           过分强调，反复讲述                              overemphasize
+shunning                  1                          回避                                           eschewing
+mocking                                              嘲弄
+formidable                1                          可怕的，令人生畏的                              daunting 使气馁，解决问题苦难的
+neutrality                                           中立
+impartiality                                         公平的，不偏不倚的
+commitment                                           忠诚的
+buoyancy                  1                          轻快的，轻松的
+timidity                  1                          胆怯，胆小
+apprehension              1                          忧虑，恐惧
+
+Section 99
 dichotomy                                           对立，一分为二
 caprice                                             娇媚，娇美
 specious                                            假的，骗人的                                    spurious, artificial, couterfeit, fabricated, forged

@@ -1,3 +1,6 @@
+官方材料 1
+GRE 170题 (1-40)
+
 odometer reading            里程表
 cube                        立方
 diagonal                    对角线
@@ -6,7 +9,7 @@ pentagon                    五边形
 hexagon                     六边形
 right triangle              直角三角形
 circumference               周长
-intercept                   截距
+intercept                   截距(带正负)
 consecutive                 连续的
 standard deviation          标准差
 reciprocal                  倒数
@@ -14,3 +17,7 @@ mode                        众数
 hypotenuse                  三角形斜边
 perimeter                   周长
 isosceles                   等腰
+slope                       斜率
+first quartile              第一四分位（从小到大）
+billion                     十亿 million 百万 差1000
+neither                     两个都不
